@@ -12,7 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: Antonio-JDev/Antonio-JDev@output
       - uses: Platane/snk@v3
         id: snake-svg
         with:
