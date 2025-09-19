@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/Antonio-JDev/Antonio-JDev">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/template-banner.svg" alt="Banner de Perfil" />
+  <a href="https://github.com/Antonio-JDev">
+    <img src="https://raw.githubusercontent.com/Antonio-JDev/Antonio-JDev/main/images/banner-antonio-jdev.png" alt="Banner de Perfil" />
   </a>
 </div>
 
@@ -41,7 +41,8 @@
 
 ### 🐍 Animação da Cobrinha
 
-<div align="center"> <picture>
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antonio-JDev/Antonio-JDev/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antonio-JDev/Antonio-JDev/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Antonio-JDev/Antonio-JDev/output/github-contribution-grid-snake.svg" />
@@ -61,5 +62,5 @@
 ---
 
 <div align="center">
-  <p>Por Antonio Santos</p>
+  <p>By Antonio Santos</p>
 </div>
